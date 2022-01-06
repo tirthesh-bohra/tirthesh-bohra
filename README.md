@@ -8,7 +8,7 @@ Apart from coding I love playing FPS multiplayer titles, chess, have a profound 
 
 My toolkit includes: Node.js, HTML, CSS, MongoDB, Express, React, npm, Javascript, Git/GitHub.
 
-More: [willdeployportfolio.com](https://willdeployportfolio.com)
+More: [tirthesh-bohra](https://tirthesh-bohra.vercel.app/)
 
 ## Get in Touch :
 - LinkedIn : <a href="https://www.linkedin.com/in/tirtheshbohra/">Tirthesh Bohra</a> 💼 
