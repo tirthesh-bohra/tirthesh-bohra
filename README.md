@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-tirthesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tirtheshbohra)](https://www.linkedin.com/in/tirtheshbohra) [![Gmail Badge](https://img.shields.io/badge/-tirthesh.bohra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tirthesh.bohra@gmail.com)](mailto:tirthesh.bohra@gmail.com)
 
-<div style="text-align: left; padding-bottom: 20px">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+<div style="text-align: right; padding-bottom: 20px">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tirthesh-bohra&layout=compact">
 
