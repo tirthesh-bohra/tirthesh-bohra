@@ -8,7 +8,7 @@
 
 <div style="text-align: right; padding-bottom: 20px">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tirthesh-bohra&layout=compact">
+<img style="margin-top: 20px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tirthesh-bohra&layout=compact">
 
 ## Programming Languages
 
