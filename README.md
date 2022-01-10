@@ -12,11 +12,11 @@
 
 ## Programming Languages
 
-<img src = './images/html.svg' width='30'/> <img src = './images/css.svg' width='30'/> <img src = './images/nodejs.svg' width='33'/> <img src = './images/js.svg' width='30'/> <img src = './images/bootstrap.svg' width='33'/> <img src = './images/mongo.svg' width='30'/>
+<img src = 'https://github.com/tirthesh-bohra/tirthesh-bohra/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/tirthesh-bohra/tirthesh-bohra/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/tirthesh-bohra/tirthesh-bohra/blob/main/images/nodejs.svg' width='33'/> <img src = 'https://github.com/tirthesh-bohra/tirthesh-bohra/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/tirthesh-bohra/tirthesh-bohra/blob/main/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/tirthesh-bohra/tirthesh-bohra/blob/main/images/mongo.svg' width='30'/>
 
 ## Technologies I Use
 
-<img src = './images/git.svg' width='30'/> <img src = './images/react.svg' width='33'/> <img src = './images/aws.svg' width='30'/> <img src = './images/expressjs.svg' width='30'/> <img src = './images/redux.svg' width='30'/>
+<img src = 'https://github.com/tirthesh-bohra/tirthesh-bohra/blob/main/images/git.svg' width='30'/> <img src = 'https://github.com/tirthesh-bohra/tirthesh-bohra/blob/main/images/react.svg' width='33'/> <img src = 'https://github.com/tirthesh-bohra/tirthesh-bohra/blob/main/images/aws.svg' width='30'/> <img src = 'https://github.com/tirthesh-bohra/tirthesh-bohra/blob/main/images/expressjs.svg' width='30'/> <img src = 'https://github.com/tirthesh-bohra/tirthesh-bohra/blob/main/images/redux.svg' width='30'/>
 
 ## Who am I?
 
