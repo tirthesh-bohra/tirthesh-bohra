@@ -49,7 +49,7 @@ class WhoAmI {
 
 ## What I am Doing Now
 
-I'm currently Learning **MERN Stack** at Masai School and, here I have learned various frameworks, collaborated with many people, worked on many projects and assignments. I can see myself growing as an enthusiastic web developer and look forward to working as 🌱 **Full Stack Developer**.
+I'm currently learning **MERN Stack** at Masai School and, here I have learned various frameworks, collaborated with many people, worked on many projects and assignments. I can see myself growing as an enthusiastic web developer and look forward to working as 🌱 **Full Stack Developer**.
 
 ## Other Stuff
 
