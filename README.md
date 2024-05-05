@@ -53,7 +53,7 @@ With 2+ years of experience and an early promotion (within 6 months), I am curre
 
 ## Other Stuff
 
-- :octocat: [My Resume](https://drive.google.com/file/d/1NQ2KRxjJUe7P0aB5u42MHhJxofB3aZ2Q/view?usp=sharing)
+- :octocat: [My Resume](https://drive.google.com/file/d/1Lwr-upgHhy0w8MBhqAgOZTvatmo-wR61/view?usp=sharing)
 - 💼 : [tirthesh-bohra](https://tirthesh-b.vercel.app)
 
 ![Tirthesh's github stats](https://github-readme-stats.vercel.app/api?username=tirthesh-bohra&show_icons=true&hide=[%22issues%22])
