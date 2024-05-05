@@ -49,7 +49,7 @@ class WhoAmI {
 
 ## What I am Doing Now
 
-I'm currently learning **MERN Stack** at Masai School and, here I have learned various frameworks, collaborated with many people, worked on many projects and assignments. I can see myself growing as an enthusiastic web developer and look forward to working as 🌱 **Full Stack Developer**.
+With 2+ years of experience and an early promotion (within 6 months), I am currently a Software Development Engineer 2 and a core team member at ApnaKlub, leading and managing multiple critical micro-services. Besides constantly learning and scaling my coding skills, you will find me cracking my head in competitive gaming.
 
 ## Other Stuff
 
