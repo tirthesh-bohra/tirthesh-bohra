@@ -49,7 +49,7 @@ class WhoAmI {
 
 ## What I am Doing Now
 
-With 2+ years of experience and an early promotion (within 6 months), I am currently a Software Development Engineer 2 and a core team member at ApnaKlub, leading and managing multiple critical micro-services. Besides constantly learning and scaling my coding skills, you will find me cracking my head in competitive gaming.
+With 2+ years of experience and an early promotion (within 6 months), I am currently a Software Development Engineer 2 and a core team member, leading and managing multiple critical micro-services. Besides constantly learning and scaling my coding skills, you will find me cracking my head in competitive gaming.
 
 ## Other Stuff
 
